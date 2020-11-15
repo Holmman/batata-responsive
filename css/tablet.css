@@ -1,0 +1,26 @@
+.plans-container--slider{
+  justify-content: center;
+}
+
+.main-tables-containter{
+  display: flex;
+  width: 810px;
+  margin: 0 auto;
+  }
+
+.product-cards--container{
+  display: flex;
+  flex-wrap: wrap;
+  width: 810px;
+  margin: 0 auto;
+}
+.bitcoin-img-container{
+  width: 100%;
+  min-width: 320px;
+  height: 60vh;  
+  /* background-image: url('./Assets/imgs/bitcoinbab.png'); */  
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;  
+}
